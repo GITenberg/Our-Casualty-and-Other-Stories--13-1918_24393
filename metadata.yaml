@@ -1,0 +1,36 @@
+_repo: Our-Casualty-and-Other-Stories--13-1918_24393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birmingham, George A.
+    aliases:
+    - Hannay, James O. (James Owen)
+    - Birmingham, G. A. (George A.)
+    - Hannay, James Owen
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '8765'
+    url: http://www.gutenberg.org/2009/agents/8765
+    wikipedia: http://en.wikipedia.org/wiki/George_A._Birmingham
+description: ''
+gutenberg_issued: '2008-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, Irish'
+tableOfContents: Our casualty -- Getting even -- A matter of discipline -- The second
+  bass -- Her right -- Journey's end -- His girl -- Sir Galahad -- A gun-running episode
+  -- Ireland forever -- Sir Timothy's dinner-party -- United Ireland -- Old Biddy
+  and the rebels -- Civilized war -- The mermaid -- An upright judge.
+title: "Our Casualty, and Other Stories\r\n1918"
+url: http://www.gutenberg.org/ebooks/24393
