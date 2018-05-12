@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8765
     wikipedia: http://en.wikipedia.org/wiki/George_A._Birmingham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24393#Our-Casualty-and-Other-Stories--13-1918
 gutenberg_issued: '2008-01-21'
 gutenberg_type: Text
 identifiers:
